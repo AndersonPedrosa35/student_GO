@@ -41,7 +41,7 @@ func main() {
 	fmt.Println(cars, e)
 	e.Logger.Fatal(e.Start(":3001"))
 	  // http.Handle(*"estamos online", nil)
-		// Não deu certo
+		// It don´t check
 }
 // The Go is typing strongly language
 // For this is need to type params and return of function
